@@ -1,8 +1,8 @@
 {
-    "name": "YOUR_PACKAGE_NAME",
-    "version": "0.1.0",
+    "name": "factly-utils",
+    "version": "0.1.1",
     "description": "",
-    "main": "./lib/YOUR_COMPONENT.js",
+    "main": "./lib/utils.js",
     "license": "MIT",
     "scripts": {
         "build": "webpack"
